@@ -1,0 +1,21 @@
+#progress-container{
+    width:95%;
+    margin:10px auto;
+    text align:center;
+  }
+  #progress-out{
+    max-width:300px;
+    margin:0 auto;
+    background:#C8C8C8;
+    height:20px;
+    border-radius: 5px;
+  }
+  #progress-in{
+    border-radius:5px;
+    width:0px;
+    height:20px;
+    background:#1E8CC3;
+  }
+  #percentage{
+    color:#1E8CC3;
+  }
